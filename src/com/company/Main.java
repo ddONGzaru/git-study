@@ -12,5 +12,7 @@ public class Main {
         System.out.println("Dummy-1");
 
         System.out.println("Git Local");
+        
+        System.out.println("GitHub");
     }
 }
