@@ -8,4 +8,6 @@ public class Feature_02 {
     private String test;
 
     private String hotfix;
+
+    private String release;
 }
