@@ -6,4 +6,6 @@ package com.company;
 public class Feature_02 {
 
     private String test;
+
+    private String hotfix;
 }
