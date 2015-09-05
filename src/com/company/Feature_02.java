@@ -10,4 +10,6 @@ public class Feature_02 {
     private String hotfix;
 
     private String release;
+
+    private String release03;
 }
